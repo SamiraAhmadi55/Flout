@@ -19,14 +19,14 @@ padding: 20px;
 }
 h1{
 text-align: center;
-color: black;
+color: rgba(0, 0, 0, 0.844);
 font-family: Arial, Helvetica, sans-serif;    
 }
 p{
 margin-left: 20px;    
 font-size: 17px;
 font-family: Arial, Helvetica, sans-serif;
-color: black;
+color: rgb(0, 0, 0);
 word-spacing: 7px;
 margin-top: 40px;
 }
