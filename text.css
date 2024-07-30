@@ -1,0 +1,32 @@
+.div{
+margin-left: 200px;
+margin-top: 50pxx;    
+}
+
+img{
+width: 900px;
+height: 600px;    
+}
+.div1{
+position: relative;
+bottom: 570px; 
+left: 35px;
+/* background-color: rgba(0, 153, 255, 0.308);    */
+background-color: rgba(255, 255, 255, 0.479);
+width: 800px;
+height: 500px;
+padding: 20px;
+}
+h1{
+text-align: center;
+color: black;
+font-family: Arial, Helvetica, sans-serif;    
+}
+p{
+margin-left: 20px;    
+font-size: 17px;
+font-family: Arial, Helvetica, sans-serif;
+color: black;
+word-spacing: 7px;
+margin-top: 40px;
+}
